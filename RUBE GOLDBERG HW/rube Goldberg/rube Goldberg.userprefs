@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/block6.cs">
+    <Files>
+      <File FileName="Assets/cameraCode.cs" Line="55" Column="17" />
+      <File FileName="Assets/ballColor.cs" Line="1" Column="1" />
+      <File FileName="Assets/ballColor2.cs" Line="1" Column="1" />
+      <File FileName="Assets/ballcolor3.cs" Line="1" Column="1" />
+      <File FileName="Assets/colorball4.cs" Line="1" Column="1" />
+      <File FileName="Assets/dominos.cs" Line="1" Column="1" />
+      <File FileName="Assets/plank1.cs" Line="1" Column="1" />
+      <File FileName="Assets/plank2.cs" Line="1" Column="1" />
+      <File FileName="Assets/plank3.cs" Line="1" Column="1" />
+      <File FileName="Assets/firstbaseblock.cs" Line="1" Column="1" />
+      <File FileName="Assets/baseblock.cs" Line="1" Column="1" />
+      <File FileName="Assets/ramp.cs" Line="1" Column="1" />
+      <File FileName="Assets/base2.cs" Line="1" Column="1" />
+      <File FileName="Assets/slapper.cs" Line="1" Column="1" />
+      <File FileName="Assets/bigslapper.cs" Line="1" Column="1" />
+      <File FileName="Assets/block1.cs" Line="1" Column="1" />
+      <File FileName="Assets/block2.cs" Line="1" Column="1" />
+      <File FileName="Assets/block3.cs" Line="1" Column="1" />
+      <File FileName="Assets/block4.cs" Line="1" Column="1" />
+      <File FileName="Assets/block5.cs" Line="9" Column="49" />
+      <File FileName="Assets/block6.cs" Line="9" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
