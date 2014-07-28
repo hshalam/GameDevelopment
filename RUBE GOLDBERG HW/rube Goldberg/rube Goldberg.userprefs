@@ -1,6 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/block6.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/lastblock.cs">
     <Files>
       <File FileName="Assets/cameraCode.cs" Line="55" Column="17" />
       <File FileName="Assets/ballColor.cs" Line="1" Column="1" />
@@ -21,8 +21,9 @@
       <File FileName="Assets/block2.cs" Line="1" Column="1" />
       <File FileName="Assets/block3.cs" Line="1" Column="1" />
       <File FileName="Assets/block4.cs" Line="1" Column="1" />
-      <File FileName="Assets/block5.cs" Line="9" Column="49" />
+      <File FileName="Assets/block5.cs" Line="1" Column="1" />
       <File FileName="Assets/block6.cs" Line="9" Column="50" />
+      <File FileName="Assets/lastblock.cs" Line="9" Column="51" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
